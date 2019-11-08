@@ -1,0 +1,13 @@
+# Ignores everything by default
+*
+
+# Whitelist
+!README.md
+!.gitignore
+!git_commit.sh
+!etc/
+!etc/system/
+!etc/system/local/
+!etc/system/local/**
+!etc/master-apps/
+!etc/master-apps/**
