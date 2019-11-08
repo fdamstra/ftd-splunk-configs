@@ -11,3 +11,5 @@
 !etc/system/local/**
 !etc/master-apps/
 !etc/master-apps/**
+
+etc/master-apps/_cluster/default
